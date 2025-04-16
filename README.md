@@ -55,7 +55,7 @@
 | 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
 | 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
 | 17  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
-| 18  |                                          |               |              |
+| 18  |              Randomised question selection in quiz.py                       |   SHREEM            |   SHREEM           |
 | 19  |                                          |               |              |
 | 20  |                                          |               |              |
 | 21  |                                          |               |              |
