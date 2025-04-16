@@ -51,15 +51,13 @@
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
 | 14  |    analytics.js ran on port 8001 rather than 8000   |   Neharika     |Neharika       |
 | 15  |     home.js is an unnecessary file                              |    Neharika  |    Neharika  |
-| 14  |     added baseurl link in profile.js                           |Neharika       |  Neharika    |
-| 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
-| 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
-| 17  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
-| 18  |              Randomised question selection in quiz.py                       |   SHREEM            |   SHREEM           |
-| 19  |        Added error check for second result fetch as well in items.py                                    |  SHREEM             |  SHREEM            |
-| 20  |                              changed datatype of name from int to str in Models.py           |   SHREEM            |  SHREEM            |
-| 21  |                                          |               |              |
-| 22  |                                          |               |              |
+| 16  |     added baseurl link in profile.js                           |Neharika       |  Neharika    |
+| 17  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
+| 18  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
+| 19  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
+| 20  |              Randomised question selection in quiz.py                       |   SHREEM            |   SHREEM           |
+| 21  |        Added error check for second result fetch as well in items.py                                    |  SHREEM             |  SHREEM            |
+| 22  |                              changed datatype of name from int to str in Models.py           |   SHREEM            |  SHREEM            |
 | 23  |                                          |               |              |
 | 24  |                                          |               |              |
 | 25  |                                          |               |              |
