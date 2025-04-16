@@ -66,5 +66,5 @@
 | 26  |                                          |               |              |
 | 27  |    fixed users to [] to fix indexing issue                                   |     Tatva          |     Tatva         |
 | 28  |      Fixed user.py method to get                                    |   Devansh            |    Tatva             |
-| 29  |                                          |               |              |
-| 30  |                                          |               |              |
+| 29  |       Changed routes on items.py, users.py                                   |      Tatva         |      Tatva        |
+| 30  |       Added templates in main.py                                  |          Tatva     |         Tatva     |
