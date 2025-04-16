@@ -64,5 +64,17 @@ async function loadNews(searchTerm = "", source = "all", reset = false) {
   }
 }
 
+document.getElementById("search").addEventListener("input", () => {
+  const searchTerm = document.getElementById("search").value;
+  const source = document.getElementById("source").value;
+  loadNews(searchTerm, source);
+});
 
-loadNews();
+document.getElementById("source").addEventListener("change", () => {
+  const searchTerm = document.getElementById("search").value;
+  const source = document.getElementById("source").value;
+  loadNews(searchTerm, source, true); // reset to avoid duplicates
+});
+
+
+loadNews("", "all", true);
