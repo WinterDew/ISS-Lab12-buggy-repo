@@ -48,7 +48,7 @@
 | 10  |    Router is Null in items.py                                      |      Tatva          |      Tatva        |
 | 11  |    models.Item did not inherit BaseModel                                      |      Tatva         |     Tatva         |
 | 12  |                                          |               |              |
-| 13  |                                          |               |              |
+| 13  |    analytics.py route does not return plot |    Neharika   |   Neharika   |
 | 14  |                                          |               |              |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
