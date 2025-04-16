@@ -46,7 +46,7 @@
 | 8   |                                          |               |              |
 | 9   |                                          |               |              |
 | 10  |    Router is Null in items.py                                      |      Tatva          |      Tatva        |
-| 11  |                                          |               |              |
+| 11  |    models.Item did not inherit BaseModel                                      |      Tatva         |     Tatva         |
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
 | 14  |                                          |               |              |
