@@ -40,7 +40,7 @@
 | 2   | In index.html, charset should be UTF-8                                         |              Kris |             Kris |
 | 3   |          Empty items.html page                                |               |  Shreem            |
 | 4   | Filter in News is not working                                         |               Kris |              |
-| 5   |                                          |               |              |
+| 5   | Nav bar missing in analytics                                         | Devansh              | Devansh             |
 | 6   |                                          |               |              |
 | 7   |                                          |               |              |
 | 8   |                                          |               |              |
