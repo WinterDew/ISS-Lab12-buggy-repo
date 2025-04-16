@@ -44,11 +44,13 @@
 | 6   | In profile.js, in line 43, delete is being done by PATCH instead of DELETE|               Kris |              Kris |
 | 7   |      Quiz.html added to landing page                        Shreem            |     Shreem          |              |
 | 8   |  Items.js html format fixed to json format                                        | Devansh              |Devansh              |
-| 9   |                                          |               |              |
+| 9   |  In profile.html,script file is wrongly linked as styles/profile.js                                         |              Kris |             Kris |
 | 10  |    Router is Null in items.py                                      |      Tatva          |      Tatva        |
 | 11  |    models.Item did not inherit BaseModel                                      |      Tatva         |     Tatva         |
 | 12  |                                          |               |              |
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
+| 14  |    analytics.js ran on port 8001 rather than 8000   |   Neharika     |Neharika       |
+| 15  |                                          |               |              |
 | 14  |                                          |               |              |
 | 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
 | 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
