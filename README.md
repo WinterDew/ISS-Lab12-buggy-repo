@@ -27,10 +27,10 @@
 ### Add the names of the members and roll numbers of your team below
 
 - Tatva Agarwal : 2024117005
-- 
--
--
--
+- Neharika Rajesh : 2024113023
+- Shreem Shukla : 2024101071
+- Kris Jain : 2024111002
+- Devansh Bansal : 2024111019
 
 ### Table to keep track
 
