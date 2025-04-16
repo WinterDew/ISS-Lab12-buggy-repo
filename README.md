@@ -47,7 +47,7 @@
 | 9   |  In profile.html,script file is wrongly linked as styles/profile.js                                         |              Kris |             Kris |
 | 10  |    Router is Null in items.py                                      |      Tatva          |      Tatva        |
 | 11  |    models.Item did not inherit BaseModel                                      |      Tatva         |     Tatva         |
-| 12  |                                          |               |              |
+| 12  | In items.py, there were two post methods with the same route.                                         |               Kris |              Kris |
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
 | 14  |    analytics.js ran on port 8001 rather than 8000   |   Neharika     |Neharika       |
 | 15  |                                          |               |              |
