@@ -63,6 +63,6 @@
 | 25  |                                          |               |              |
 | 26  |                                          |               |              |
 | 27  |    fixed users to [] to fix indexing issue                                   |     Tatva          |     Tatva         |
-| 28  |                                          |               |              |
+| 28  |      Fixed user.py method to get                                    |   Devansh            |    Tatva             |
 | 29  |                                          |               |              |
 | 30  |                                          |               |              |
