@@ -64,7 +64,7 @@
 | 24  |                                          |               |              |
 | 25  |                                          |               |              |
 | 26  |                                          |               |              |
-| 27  |                                          |               |              |
+| 27  |    fixed users to [] to fix indexing issue                                   |     Tatva          |     Tatva         |
 | 28  |                                          |               |              |
 | 29  |                                          |               |              |
 | 30  |                                          |               |              |
