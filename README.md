@@ -41,8 +41,8 @@
 | 3   |          Empty items.html page                                |               |  Shreem            |
 | 4   | Filter in News is not working                                         |               Kris |              |
 | 5   | Nav bar missing in analytics                                         | Devansh              | Devansh             |
-| 6   |                                          |               |              |
-| 7   |                                          |               |              |
+| 6   | In profile.js, in line 43, delete is being done by PATCH instead of DELETE                                         |               Kris |              Kris |
+| 7   |      Quiz.html added to landing page                        Shreem            |     Shreem          |              |
 | 8   |                                          |               |              |
 | 9   |                                          |               |              |
 | 10  |    Router is Null in items.py                                      |      Tatva          |      Tatva        |
