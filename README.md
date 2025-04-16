@@ -55,15 +55,15 @@
 | 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
 | 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
 | 17  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
-| 18  |                                          |               |              |
-| 19  |                                          |               |              |
+| 18  |              Randomised question selection in quiz.py                       |   SHREEM            |   SHREEM           |
+| 19  |        Added error check for second result fetch as well in items.py                                    |  SHREEM             |  SHREEM            |
 | 20  |                                          |               |              |
 | 21  |                                          |               |              |
 | 22  |                                          |               |              |
 | 23  |                                          |               |              |
 | 24  |                                          |               |              |
 | 25  |                                          |               |              |
-| 26  |                                          |               |              |
+| 26  |        Fixed router in main.py and users.py                                  |    Tatva               |     Tatva         |
 | 27  |    fixed users to [] to fix indexing issue                                   |     Tatva          |     Tatva         |
 | 28  |      Fixed user.py method to get                                    |   Devansh            |    Tatva             |
 | 29  |       Changed routes on items.py, users.py                                   |      Tatva         |      Tatva        |

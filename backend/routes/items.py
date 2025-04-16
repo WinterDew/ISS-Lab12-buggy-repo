@@ -29,6 +29,6 @@ async def delete_item(item_id: str, item_details:str):
     collection = await get_items_collection()
     result = await collection.delete_one({"_id": ObjectId(item_id)})
     result2 = await collection.delete_one({"_id": ObjectId(item_details)})
-    if result.deleted_count:
+    if result.deleted_count or result2.deleted_count:
         return {"status": "deleted", "deleted_item":result2}
     raise HTTPException(status_code=404, detail="Item not found")
