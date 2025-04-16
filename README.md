@@ -36,10 +36,10 @@
 
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
-| 1   | Style.css is not filled                                    |         Narain |     Whole Team     |
-| 2   | In index.html, charset should be UTF-8                                         |              Kris |             Kris |
-| 3   |          Empty items.html page                                |               |  Shreem            |
-| 4   | Filter in News is not working                                         |               Kris |              |
+| 1   | Style.css is not filled                  |      Narain   |   Whole Team |
+| 2   | In index.html, charset should be UTF-8   |      Kris     |    Kris      |
+| 3   |          Empty items.html page           |     Shreem    |              |
+| 4   | Filter in News is not working            |      Kris     |              |
 | 5   |                                          |               |              |
 | 6   |                                          |               |              |
 | 7   |                                          |               |              |
