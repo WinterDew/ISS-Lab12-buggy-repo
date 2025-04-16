@@ -50,7 +50,7 @@
 | 12  |                                          |               |              |
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
 | 14  |                                          |               |              |
-| 15  |                                          |               |              |
+| 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
 | 16  |                                          |               |              |
 | 17  |                                          |               |              |
 | 18  |                                          |               |              |
