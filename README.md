@@ -57,7 +57,7 @@
 | 17  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
 | 18  |              Randomised question selection in quiz.py                       |   SHREEM            |   SHREEM           |
 | 19  |        Added error check for second result fetch as well in items.py                                    |  SHREEM             |  SHREEM            |
-| 20  |                                          |               |              |
+| 20  |                              changed datatype of name from int to str in Models.py           |   SHREEM            |  SHREEM            |
 | 21  |                                          |               |              |
 | 22  |                                          |               |              |
 | 23  |                                          |               |              |
