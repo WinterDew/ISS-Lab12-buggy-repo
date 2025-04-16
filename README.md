@@ -51,7 +51,7 @@
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
 | 14  |                                          |               |              |
 | 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
-| 16  |                                          |               |              |
+| 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
 | 17  |                                          |               |              |
 | 18  |                                          |               |              |
 | 19  |                                          |               |              |
