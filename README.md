@@ -42,7 +42,7 @@
 | 4   | Filter in News is not working            |          Kris |  Devansh            |
 | 5   | Nav bar missing in analytics             | Devansh       | Devansh      |
 | 6   | In profile.js, in line 43, delete is being done by PATCH instead of DELETE|               Kris |              Kris |
-| 7   |      Quiz.html added to landing page                        Shreem            |     Shreem          |              |
+| 7   |      Quiz.html added to landing page                                 |     Shreem          |           Shreem   |
 | 8   |  Items.js html format fixed to json format                                        | Devansh              |Devansh              |
 | 9   |  In profile.html,script file is wrongly linked as styles/profile.js                                         |              Kris |             Kris |
 | 10  |    Router is Null in items.py                                      |      Tatva          |      Tatva        |
