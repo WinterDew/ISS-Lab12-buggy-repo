@@ -49,7 +49,7 @@
 | 11  |    models.Item did not inherit BaseModel                                      |      Tatva         |     Tatva         |
 | 12  |                                          |               |              |
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
-| 14  |                                          |               |              |
+| 14  |    analytics.js ran on port 8001 rather than 8000                                      |   Neharika     |Neharika       |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
 | 17  |                                          |               |              |
