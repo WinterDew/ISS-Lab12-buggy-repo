@@ -54,7 +54,7 @@
 | 14  |                                          |               |              |
 | 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
 | 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
-| 17  |                                          |               |              |
+| 17  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
 | 18  |                                          |               |              |
 | 19  |                                          |               |              |
 | 20  |                                          |               |              |
