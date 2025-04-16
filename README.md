@@ -37,7 +37,7 @@
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                                    |         Narain |     Whole Team     |
-| 2   |                                          |               |              |
+| 2   | In index.html, charset should be UTF-8                                         |              Kris |             Kris |
 | 3   |                                          |               |              |
 | 4   |                                          |               |              |
 | 5   |                                          |               |              |
