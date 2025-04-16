@@ -38,7 +38,7 @@
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                                    |         Narain |     Whole Team     |
 | 2   | In index.html, charset should be UTF-8                                         |              Kris |             Kris |
-| 3   |                                          |               |              |
+| 3   |          Empty items.html page                                |               |  Shreem            |
 | 4   |                                          |               |              |
 | 5   |                                          |               |              |
 | 6   |                                          |               |              |
