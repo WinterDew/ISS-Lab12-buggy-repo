@@ -33,6 +33,12 @@ nav a:hover {
     color: #bb86fc;
 }
 
+nav a.active {
+    color: #03dac5;
+    border-bottom: 2px solid #03dac5;
+    font-weight: bold;
+}
+
 body > *:not(nav) {
     padding: 1rem;
 }
