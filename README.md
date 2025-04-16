@@ -38,7 +38,7 @@
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                  |        Narain |  Whole Team  |
 | 2   | In index.html, charset should be UTF-8   |          Kris |         Kris |
-| 3   |          Empty items.html page           |       Shreem  |              |
+| 3   |          Empty items.html page           |       Shreem  | Devansh             |
 | 4   | Filter in News is not working            |          Kris |  Devansh            |
 | 5   | Nav bar missing in analytics             | Devansh       | Devansh      |
 | 6   | In profile.js, in line 43, delete is being done by PATCH instead of DELETE|               Kris |              Kris |
