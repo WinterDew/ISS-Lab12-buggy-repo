@@ -13,16 +13,8 @@ app.include_router(analytics_router)
 app.include_router(quiz_router)
 
 # Set up templates directory
-templates = Jinja2Templates(directory="frontend")
+templates = Jinja2Templates(directory="../frontend")
 
-@app.get("/", response_class=HTMLResponse)
+@app.get("/home", response_class=HTMLResponse)
 async def get_home(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
-
-@app.get("/about", response_class=HTMLResponse)
-async def get_about(request: Request):
-    return templates.TemplateResponse("about.html", {"request": request})
-
-@app.get("/contact", response_class=HTMLResponse)
-async def get_contact(request: Request):
-    return templates.TemplateResponse("contact.html", {"request": request})

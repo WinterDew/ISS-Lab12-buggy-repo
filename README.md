@@ -47,14 +47,14 @@
 | 9   |  In profile.html,script file is wrongly linked as styles/profile.js                                         |              Kris |             Kris |
 | 10  |    Router is Null in items.py                                      |      Tatva          |      Tatva        |
 | 11  |    models.Item did not inherit BaseModel                                      |      Tatva         |     Tatva         |
-| 12  |                                          |               |              |
+| 12  | In items.py, there were two post methods with the same route.                                         |               Kris |              Kris |
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
 | 14  |    analytics.js ran on port 8001 rather than 8000   |   Neharika     |Neharika       |
 | 15  |     home.js is an unnecessary file                              |    Neharika  |    Neharika  |
 | 14  |                                          |               |              |
 | 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
 | 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
-| 17  |                                          |               |              |
+| 17  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
 | 18  |                                          |               |              |
 | 19  |                                          |               |              |
 | 20  |                                          |               |              |
@@ -67,4 +67,4 @@
 | 27  |    fixed users to [] to fix indexing issue                                   |     Tatva          |     Tatva         |
 | 28  |      Fixed user.py method to get                                    |   Devansh            |    Tatva             |
 | 29  |       Changed routes on items.py, users.py                                   |      Tatva         |      Tatva        |
-| 30  |       Added templates in main.py                                  |          Tatva     |         Tatva     |
+| 30  |       Added templates in main.py  & another fix                                |          Tatva     |         Tatva     |
