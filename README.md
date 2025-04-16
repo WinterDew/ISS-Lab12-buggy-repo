@@ -51,7 +51,7 @@
 | 13  |    analytics.py route did  not return plot |    Neharika   |   Neharika   |
 | 14  |    analytics.js ran on port 8001 rather than 8000   |   Neharika     |Neharika       |
 | 15  |     home.js is an unnecessary file                              |    Neharika  |    Neharika  |
-| 14  |                                          |               |              |
+| 14  |     added baseurl link in profile.js                           |Neharika       |  Neharika    |
 | 15  |    DELETE INSTEAD OF POST IN ITEMS.JS                             |  SHREEM             | SHREEM             |
 | 16  |        @router.post instead of @router.get                                  | SHREEM              |  SHREEM            |
 | 17  |        delete_one instead of delete_all in users.py                             |    SHREEM           |  SHREEM            |
