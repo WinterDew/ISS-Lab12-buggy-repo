@@ -63,7 +63,7 @@
 | 23  |                                          |               |              |
 | 24  |                                          |               |              |
 | 25  |                                          |               |              |
-| 26  |                                          |               |              |
+| 26  |        Fixed router in main.py and users.py                                  |    Tatva               |     Tatva         |
 | 27  |    fixed users to [] to fix indexing issue                                   |     Tatva          |     Tatva         |
 | 28  |      Fixed user.py method to get                                    |   Devansh            |    Tatva             |
 | 29  |       Changed routes on items.py, users.py                                   |      Tatva         |      Tatva        |
